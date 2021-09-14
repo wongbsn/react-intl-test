@@ -1,0 +1,11 @@
+{
+  "ORUkxa": {
+    "defaultMessage": "Visit firefox <link>here</link>"
+  },
+  "TefaE+": {
+    "defaultMessage": "Visit google <link>here</link>"
+  },
+  "e1DTmD": {
+    "defaultMessage": "Today is {ts, date, ::yyyyMMdd}"
+  }
+}
