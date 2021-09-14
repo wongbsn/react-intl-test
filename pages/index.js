@@ -9,13 +9,13 @@ export default function Home() {
   const listMessages = [
     {
       message: defineMessage({
-        defaultMessage: 'Visit google <link>here</link>',
+        defaultMessage: 'Visit Google <link>here</link>',
       }),
       link: 'https://www.google.com'
     },
     {
       message: defineMessage({
-        defaultMessage: 'Visit firefox <link>here</link>',
+        defaultMessage: 'Visit Mozilla <link>here</link>',
       }),
       link: 'https://www.mozilla.org/'
     },
